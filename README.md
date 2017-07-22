@@ -1,1 +1,1 @@
-# helloworld - A classic project
+# helloworld - A project
